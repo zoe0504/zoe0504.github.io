@@ -1,0 +1,43 @@
+p{
+    color:#3C3C3C;
+}
+
+a.zoelink {
+    background-color: wheat;
+    padding: 1px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color:cornflowerblue;
+}
+
+a.zoelink:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div.zoedivgrey{
+    background-color: rgb(151, 171, 207);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+h4.zoesmallh4{
+    font-size: 18px;
+    color: rgb(42, 42, 100);
+}
+
+section#about.resume-section{
+    background-color: blanchedalmond;
+}
+.zoebgblue{
+    background-color: blue;
+}
+
+.zoecrop{
+    height:200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px
+}
