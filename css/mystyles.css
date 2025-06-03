@@ -49,3 +49,9 @@ section#work.resume-section{
     margin: 10px 5px;
     border-radius: 10px
 }
+.zoecall{
+    background-image: url("../assets/img/08.img.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}

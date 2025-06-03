@@ -1,0 +1,57 @@
+p{
+    color:#b13838;
+}
+h2{
+    color: rgb(97, 113, 5);
+}
+h3{
+    color:rgb(196, 193, 14)
+}
+a.zoelink {
+    background-color:rgb(213, 230, 117);
+    padding: 1px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: rgb(8, 111, 18);;
+}
+
+a.zoelink:hover{
+    background-color: rgb(8, 111, 18);
+    color: rgb(5, 13, 105);
+}
+
+div.zoedivgrey{
+    background-color: rgb(213, 230, 117);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid rgb(6, 145, 50);
+}
+
+h4.zoesmallh4{
+    font-size: 18px;
+    color: rgb(42, 42, 100);
+}
+
+section#about.resume-section{
+    background-color: rgb(224, 200, 106);
+}
+
+section#fav.resume-section{
+    background-color:  rgb(166, 129, 78);
+}
+section#work.resume-section{
+    background-color: rgb(166, 129, 78);
+}
+.zoecrop{
+    height:200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px
+}
+.zoecall{
+    background-image: url("../assets/img/08.img.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}
